@@ -2,7 +2,7 @@ https://codepen.io/tonyandbullet/pen/GRjpKYQ
 
 
     1. What is Semantic HTML? 
-	Labels for the information you see on the webpage.
+	Labels for the information you see on the webpages.
     2. What is HTML used for? 
 	Frame work of the website. 
     3. What is an attribute and where do we put it? 
@@ -72,7 +72,7 @@ https://codepen.io/tonyandbullet/pen/GRjpKYQ
     34. Why should I use version control? 
 	Helps log and maintain versions of code. Makes it easier to revert, backup, maintain, etc. 
     35. How often should I commit to github?
-	Commit often as much as possible.
+	Commit often as much as possible. Incorporate a script to commit often.
     36. What is the command we would use to push our repo up to github? 
 	git push firstname-lastname file. 
     37. Walk me through Lambda's git flow. 
@@ -89,6 +89,8 @@ https://codepen.io/tonyandbullet/pen/GRjpKYQ
 	11. Make sure Branch is selected on Tony-Yang.txt
 	12.Once correct Branch is selected, clicking the New pull request will direct you to create new pull request. 
 	13.In the Create New Pull Page, change base repository to my Forked Repo.
+
+
 
 Stretch Questions
 
